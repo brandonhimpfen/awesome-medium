@@ -39,6 +39,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Word to Medium](https://wordtomedium.com/) – Converts Word documents into Medium-ready formatting.
 - [Markdown to Medium](https://markdowntomedium.com/) – Convert Markdown files for publishing on Medium.
 - [Typefully](https://typefully.com/) – Write Twitter threads and repurpose them into Medium articles.
+- [CreatorSkills](https://creatorskills.co) – Marketplace of 30+ downloadable AI skills for content creators covering scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 
 ## SEO & Traffic
 
