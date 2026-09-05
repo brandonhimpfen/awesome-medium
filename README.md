@@ -1,4 +1,4 @@
-# Awesome Medium [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Medium [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1031096027.svg)](https://doi.org/10.5281/zenodo.19680508)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -90,10 +90,10 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Lists
 
-- [Awesome Blogging](https://github.com/awesomelistsio/awesome-blogging)
-- [Awesome Ghost](https://github.com/awesomelistsio/awesome-ghost)
-- [Awesome Content Marketing](https://github.com/awesomelistsio/awesome-content-marketing)
-- [Awesome Substack](https://github.com/awesomelistsio/awesome-substack)
+- [Awesome Blogging](https://github.com/brandonhimpfen/awesome-blogging)
+- [Awesome Ghost](https://github.com/brandonhimpfen/awesome-ghost)
+- [Awesome Content Marketing](https://github.com/brandonhimpfen/awesome-content-marketing)
+- [Awesome Substack](https://github.com/brandonhimpfen/awesome-substack)
   
 ## Contribute
 
